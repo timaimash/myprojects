@@ -1,1 +1,1 @@
-# Sharpe Ratio
+# Applied Finance
